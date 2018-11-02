@@ -91,7 +91,7 @@ function dataType(){
 
 
 function arrNum() {
-  for(let i = 0;)
+  for(let i = 0; i < )
 }
 
 
