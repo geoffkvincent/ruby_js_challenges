@@ -94,6 +94,8 @@ function arrNum() {
   for(let i = 0; i < )
 }
 
+console.log(arrNum([1,2,3,4,5]))
+
 
 
 // Write a script to extract unique characters from a string.
