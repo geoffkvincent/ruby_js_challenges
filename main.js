@@ -90,8 +90,8 @@ function dataType(){
 // Expected Output : 2,4
 
 
-function arrNum() {
-  for(let i = 0; i < )
+function arrNum(arr) {
+  for(let i = 0; i < arr.length; i++ )
 }
 
 console.log(arrNum([1,2,3,4,5]))
